@@ -1,0 +1,12 @@
+table.module_cat_table {font-size: 10px; width:700px; margin: 0;}
+.cat_leg_head{color:silver;background-color: #232323;}
+.cat_subleg_head{color:silver;background-color: gray;}
+.module_cat_area_wide {width: 557px;}
+.module_cat_legend{font-size: 9px; margin: 6px 0; border: 1px solid black; max-width:80%;min-width:30%;}
+.module_cat_area_short {width: 500px; height: 100px;}
+.module_cat_link {text-decoration: underline;}
+.module_cat_fieldset {margin-bottom:2em;}
+.module_catr_table tr.row1:hover, .module_catr_table tr.row2:hover{background: #CCDBDD;}
+.odd {background-color: #fff;text-align:left;vertical-alignment: top;}
+.even {background-color: #ddd;text-align:left;vertical-alignment: top;}
+.inputhelp  { color: #384654; padding: 0; margin: 0; width: auto; text-align:left; }
